@@ -1,1 +1,1 @@
-Ver demo en: https://vis97c.github.io/Presentacion-Comp-Visual/
+[Ver demo](/Presentacion-Comp-Visual/semana_2_1_descomponiendo_pipeline_grafico/Threejs/index.html)
